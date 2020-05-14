@@ -1,0 +1,214 @@
+body{
+    font-family: 'Khula', sans-serif;
+}
+h1{
+    font-size: 36px;
+    color: #fff;
+    padding-top: 150px;
+}
+h2{
+    font-size: 21px;
+    color: #fff;
+    width: 29%;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 18px;
+    font-weight: bold;
+}
+p{
+    font-size: 15px;
+    color: #888888;
+}
+.menu{
+    background: #fff;
+    padding-top: 8px;
+}
+.menu img{
+    width: 100%;
+}
+.menu ul li a{
+    color: #888888;
+}
+.menu ul li a:hover{
+    color: #06d6a0;
+}
+.btn-mine{
+    background: #06d6a0;
+    color: #fff;
+    padding: 10px;
+    padding-bottom: 0;
+    margin-top: 5px;
+}
+.parallax-window {
+    margin-top: 8px;
+    min-height: 400px;
+    background: transparent;
+}
+.gallary .row{
+    margin-top: 10%;
+    margin-left: 320px;
+}
+.gallary .col-sm-4{
+    background: #fff;
+    box-shadow: 2px 2px 2px;
+}
+.image1{
+    width: 370px;
+    height: 250px;
+    background: url(img/1.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image1:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image2{
+    width: 370px;
+    height: 250px;
+    background: url(img/2.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image2:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image3{
+    width: 370px;
+    height: 250px;
+    background: url(img/3.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image3:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image4{
+    width: 370px;
+    height: 250px;
+    background: url(img/4.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image4:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image5{
+    width: 370px;
+    height: 250px;
+    background: url(img/5.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image5:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image6{
+    width: 370px;
+    height: 250px;
+    background: url(img/6.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image6:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image7{
+    width: 370px;
+    height: 250px;
+    background: url(img/7.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image7:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image8{
+    width: 370px;
+    height: 250px;
+    background: url(img/8.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image8:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.image9{
+    width: 370px;
+    height: 250px;
+    background: url(img/9.png);
+    background-size: 100%;
+    background-position: center;
+    transition: 1s;
+}
+.image9:hover{
+    background-size: 115%;
+    background-position: center;
+}
+.details h4{
+    width: 85%;
+}
+.details p{
+    width: 85%;
+}
+.marketing{
+    margin-top: 10%;
+}
+.marketing p{
+    width: 40%;
+    color: #fff;
+    margin-top: 20px;
+}
+.marketing .btn-mine{
+    margin-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+.conclution{
+    margin-top: 80px;
+}
+.conclution a{
+    color: #888888;
+}
+.conclution a:hover{
+  color: #06d6a0;
+  text-decoration: none;
+}
+.conclution input{
+    height: 44px;
+    background: #f6f6f6;
+    border: none;
+    padding-left: 10px;
+}
+.conclution .btn-mine{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.conclution h4{
+    margin-top: 30px;
+}
+footer{
+    padding: 10px;
+    background: #f7f7f7;
+    color: #888888;
+    margin-top: 5%;
+}
